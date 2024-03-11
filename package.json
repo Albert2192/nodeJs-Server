@@ -1,0 +1,16 @@
+{
+  "name": "proyectojsonserver",
+  "version": "1.0.0",
+  "description": "Server Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js",
+    "start": "json-server --watch db.json"
+  },
+  "author": "Alberto Aquino",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

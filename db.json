@@ -1,0 +1,30 @@
+{
+    "profesores": [
+        {
+            "nombre": "Alberto",
+            "apellido": "Aquino",
+            "materias": [
+                {
+                    "descripcion": "Programacion"
+                },
+                {
+                    "descripcion": "Base de datos"
+                }
+            ]
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "promedio": 8.2
+        }
+    ],
+    "cursos": [
+        {
+            "descripcion": "NodeJS",
+            "duracion": "7hs",
+            "dificultad": "media"
+        }
+    ]
+}
